@@ -1,0 +1,29 @@
+.text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: darkgreen;
+
+}
+html{
+    background-color: darkgreen;
+}
+.bit{
+    background-color: white;
+    border-radius: 2px;
+}
+button{
+    background-color: darkgreen;
+    border-color: white;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+#togglediv{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+}
